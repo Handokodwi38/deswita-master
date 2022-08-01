@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135250963748",
+    "firebase_url": "https://pariwisata-banten-c8055-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pariwisata-banten-c8055",
+    "storage_bucket": "pariwisata-banten-c8055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135250963748:android:90016b6e022210b295d7b1",
+        "android_client_info": {
+          "package_name": "com.banten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135250963748-5isajc3sajdgvuhi6cvgtvch886hl69g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.banten",
+            "certificate_hash": "54d36db41c4da9d9bc0f3e6daba9e958fa40c713"
+          }
+        },
+        {
+          "client_id": "135250963748-06hp1apvvb40sjp9qaqmd0nviia7cdk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3EUaK7rbgLXX-yjzxxY-KpFOVDLWUvB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135250963748-06hp1apvvb40sjp9qaqmd0nviia7cdk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
